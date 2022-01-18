@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# key: def
+# name: define
+# --
+(define ${1:name}
+  (lambda (${2:args})
+    ($0)))

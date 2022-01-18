@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# name: use-package
+# key: usep
+# --
+(use-package ${1pkg-name}
+  $0)

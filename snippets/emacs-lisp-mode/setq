@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# name: setq
+# key: setq
+# --
+(setq ${1:name} ${2:value}$0)

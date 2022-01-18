@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# name: commentary
+# key: comm
+# --
+;;; `(file-name-nondirectory buffer-file-name)` -- ${1:desc} -*- lexical-binding: t -*-
+;;; Commentary:
+;;;   ${2:commentary}
+;;; Code:
+
+$0
+;;; `(file-name-nondirectory buffer-file-name)` ends here

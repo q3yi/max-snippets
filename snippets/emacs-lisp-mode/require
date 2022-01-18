@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# name: require
+# key: req
+# --
+(require '${1:package})
+$0

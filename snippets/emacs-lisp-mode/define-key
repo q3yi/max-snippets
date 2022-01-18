@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# name: define-key
+# key: defk
+# --
+(define-key ${1:some}-map ${2:(kbd "k")} ${3:'func})$0

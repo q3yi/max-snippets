@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: qingyi
+# name: contributor
+# key: contri
+# --
+# contributor: `(user-login-name)`$0
